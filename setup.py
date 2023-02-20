@@ -63,7 +63,7 @@ setuptools.setup(
     author="Boris",
     license="MIT",
     author_email="feapder@qq.com",
-    python_requires=">=3.6",
+    python_requires=">=3.7",
     description="feapder是一款支持分布式、批次采集、任务防丢、报警丰富的python爬虫框架",
     long_description=long_description,
     long_description_content_type="text/markdown",
